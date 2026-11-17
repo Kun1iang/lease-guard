@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.env
+*.db
+storage/
+node_modules/
+frontend/dist/
+.taste-skill/
+.playwright-cli/
+frontend/src/assets/
+frontend/public/icons.svg

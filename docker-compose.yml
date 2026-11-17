@@ -1,0 +1,19 @@
+services:
+  lease-guard:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      JWT_SECRET: ${JWT_SECRET:-dev-only-change-me-lease-guard-2026}
+      ENABLE_LLM: ${ENABLE_LLM:-false}
+      LLM_BASE_URL: ${LLM_BASE_URL:-}
+      LLM_API_KEY: ${LLM_API_KEY:-}
+      LLM_MODEL: ${LLM_MODEL:-deepseek-chat}
+    volumes:
+      - lease_guard_data:/app/backend/data
+      - lease_guard_storage:/app/backend/storage
+    restart: unless-stopped
+
+volumes:
+  lease_guard_data:
+  lease_guard_storage:

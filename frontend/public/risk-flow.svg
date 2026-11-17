@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="520" viewBox="0 0 800 520">
+  <rect width="800" height="520" rx="18" fill="#f2efe9"/>
+  <rect x="54" y="56" width="692" height="408" rx="14" fill="#fffdf9" stroke="#d8d1c9"/>
+  <text x="88" y="102" fill="#7a6c6d" font-family="Instrument Sans, sans-serif" font-size="16">合同进入审阅</text>
+  <rect x="88" y="126" width="624" height="64" rx="10" fill="#f4f0e9"/>
+  <text x="108" y="164" fill="#251b1c" font-family="Instrument Sans, sans-serif" font-size="18">照片 / PDF / DOCX / 文本</text>
+  <line x1="400" y1="190" x2="400" y2="224" stroke="#7d0c14" stroke-width="2"/>
+  <path d="M400 224l-7-12h14z" fill="#7d0c14"/>
+  <rect x="88" y="236" width="196" height="118" rx="12" fill="#fff" stroke="#ded6ce"/>
+  <text x="112" y="274" fill="#7d0c14" font-family="Instrument Sans, sans-serif" font-size="15">01 规则命中</text>
+  <text x="112" y="308" fill="#251b1c" font-family="Instrument Sans, sans-serif" font-size="19">押金期限</text>
+  <text x="112" y="334" fill="#6c5f60" font-family="Instrument Sans, sans-serif" font-size="14">缺少具体天数</text>
+  <rect x="302" y="236" width="196" height="118" rx="12" fill="#fff" stroke="#ded6ce"/>
+  <text x="326" y="274" fill="#7d0c14" font-family="Instrument Sans, sans-serif" font-size="15">02 原文核验</text>
+  <text x="326" y="308" fill="#251b1c" font-family="Instrument Sans, sans-serif" font-size="19">第 4 页 · 第 6 行</text>
+  <text x="326" y="334" fill="#6c5f60" font-family="Instrument Sans, sans-serif" font-size="14">引用可反查</text>
+  <rect x="516" y="236" width="196" height="118" rx="12" fill="#7d0c14"/>
+  <text x="540" y="274" fill="#f7eeee" font-family="Instrument Sans, sans-serif" font-size="15">03 报告输出</text>
+  <text x="540" y="308" fill="#fff" font-family="Instrument Sans, sans-serif" font-size="19">风险卡片</text>
+  <text x="540" y="334" fill="#e8c6c9" font-family="Instrument Sans, sans-serif" font-size="14">确认 / 忽略 / 待核实</text>
+  <text x="88" y="410" fill="#6c5f60" font-family="Instrument Sans, sans-serif" font-size="15">每个风险都保留页码和证据状态</text>
+</svg>

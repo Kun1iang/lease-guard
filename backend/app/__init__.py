@@ -1,0 +1,1 @@
+"""Lease Guard backend package."""

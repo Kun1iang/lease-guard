@@ -1,0 +1,98 @@
+[
+  {
+    "id": "kb_civil_lease",
+    "title": "住宅租赁合同的主要内容",
+    "category": "租赁合同",
+    "keywords": ["租赁合同", "租金", "押金", "租期", "维修", "解除", "续租"],
+    "content": "住宅租赁合同通常会约定房屋基本情况、租赁期限、租金及支付方式、押金、维修责任、解除条件和违约责任。租赁期内的租金调整、续租和解除方式应尽量写明。",
+    "source_title": "中华人民共和国民法典",
+    "article": "合同编 租赁合同章",
+    "effective_date": "2021-01-01",
+    "official_url": "https://flk.npc.gov.cn/",
+    "is_official": true
+  },
+  {
+    "id": "kb_civil_repair",
+    "title": "出租房屋的维修责任",
+    "category": "维修",
+    "keywords": ["维修", "损坏", "自然损耗", "设施", "房屋"],
+    "content": "出租人通常承担出租房屋及其附属设施的维修义务，承租人有权要求出租人在合理期限内维修。因承租人使用不当造成损坏的，责任承担应结合合同约定和实际原因判断。",
+    "source_title": "中华人民共和国民法典",
+    "article": "合同编 租赁合同章中的维修义务规则",
+    "effective_date": "2021-01-01",
+    "official_url": "https://flk.npc.gov.cn/",
+    "is_official": true
+  },
+  {
+    "id": "kb_civil_sublease",
+    "title": "房屋转租需要关注授权",
+    "category": "转租",
+    "keywords": ["转租", "书面同意", "出租人", "承租人"],
+    "content": "承租人转租房屋通常需要取得出租人的同意。对完全禁止转租的条款，应结合租期、工作变化和提前解约责任一起评估。",
+    "source_title": "中华人民共和国民法典",
+    "article": "合同编 租赁合同章中的转租规则",
+    "effective_date": "2021-01-01",
+    "official_url": "https://flk.npc.gov.cn/",
+    "is_official": true
+  },
+  {
+    "id": "kb_civil_safety",
+    "title": "租赁物安全与解除",
+    "category": "安全",
+    "keywords": ["安全", "健康", "解除", "房屋", "设施"],
+    "content": "如果租赁物危及承租人的安全或健康，承租人应优先保留证据并及时沟通；具体解除和赔偿仍要结合实际情形、合同约定和有效法律依据判断。",
+    "source_title": "中华人民共和国民法典",
+    "article": "合同编 租赁合同章中的安全与解除规则",
+    "effective_date": "2021-01-01",
+    "official_url": "https://flk.npc.gov.cn/",
+    "is_official": true
+  },
+  {
+    "id": "kb_risk_deposit",
+    "title": "押金条款风险说明",
+    "category": "押金",
+    "keywords": ["押金", "扣除", "退还", "期限", "交接"],
+    "content": "押金条款宜明确金额、可扣除情形、扣除凭证、退还触发条件和具体退还天数。只写“合理期限”会降低可执行性。",
+    "source_title": "租约守护规则库",
+    "article": "押金风险说明",
+    "effective_date": "2026-11-17",
+    "official_url": "",
+    "is_official": false
+  },
+  {
+    "id": "kb_risk_fees",
+    "title": "居住费用风险说明",
+    "category": "费用",
+    "keywords": ["水费", "电费", "燃气", "物业费", "费用"],
+    "content": "水电燃气和物业费应尽量写明承担方、单价、抄表方式、结算周期以及退租时的结算方法。",
+    "source_title": "租约守护规则库",
+    "article": "费用风险说明",
+    "effective_date": "2026-11-17",
+    "official_url": "",
+    "is_official": false
+  },
+  {
+    "id": "kb_risk_handover",
+    "title": "房屋交接风险说明",
+    "category": "交接",
+    "keywords": ["交接", "清单", "家具", "家电", "退租", "照片"],
+    "content": "入住和退租时宜共同确认家具家电状态、已有损坏、水电表读数和钥匙数量，并保留带日期的照片或清单。",
+    "source_title": "租约守护规则库",
+    "article": "交接风险说明",
+    "effective_date": "2026-11-17",
+    "official_url": "",
+    "is_official": false
+  },
+  {
+    "id": "kb_risk_blank",
+    "title": "空白条款风险说明",
+    "category": "文本完整性",
+    "keywords": ["空白", "待填", "划线", "签字", "附件"],
+    "content": "签约前应填完必要信息，并将不适用空白划掉。附件、家具清单和补充协议应共同签字确认。",
+    "source_title": "租约守护规则库",
+    "article": "文本完整性说明",
+    "effective_date": "2026-11-17",
+    "official_url": "",
+    "is_official": false
+  }
+]

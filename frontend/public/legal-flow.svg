@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="460" viewBox="0 0 800 460">
+  <rect width="800" height="460" rx="18" fill="#e7e2da"/>
+  <rect x="48" y="62" width="704" height="330" rx="16" fill="#fffdf9" stroke="#d7cfc7"/>
+  <text x="82" y="108" fill="#7a6c6d" font-family="Instrument Sans, sans-serif" font-size="16">租房问题</text>
+  <rect x="82" y="130" width="636" height="66" rx="10" fill="#251b1c"/>
+  <text x="106" y="170" fill="#fff" font-family="Instrument Sans, sans-serif" font-size="18">押金退还是否要写具体天数？</text>
+  <line x1="400" y1="196" x2="400" y2="222" stroke="#7d0c14" stroke-width="2"/>
+  <path d="M400 226l-7-12h14z" fill="#7d0c14"/>
+  <rect x="82" y="238" width="636" height="64" rx="10" fill="#f4f0e9"/>
+  <text x="106" y="277" fill="#251b1c" font-family="Instrument Sans, sans-serif" font-size="17">范围守卫：仅中国大陆住宅租赁</text>
+  <rect x="82" y="326" width="196" height="34" rx="17" fill="#7d0c14"/>
+  <text x="112" y="349" fill="#fff" font-family="Instrument Sans, sans-serif" font-size="13">民法典 · 租赁合同章</text>
+  <rect x="292" y="326" width="154" height="34" rx="17" fill="#e9d8d9"/>
+  <text x="318" y="349" fill="#7d0c14" font-family="Instrument Sans, sans-serif" font-size="13">版本 2026-11</text>
+  <rect x="460" y="326" width="258" height="34" rx="17" fill="#e9d8d9"/>
+  <text x="484" y="349" fill="#7d0c14" font-family="Instrument Sans, sans-serif" font-size="13">回答带来源与适用范围</text>
+</svg>
